@@ -1,0 +1,37 @@
+#demo{
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid white;
+    width:600px;
+    height: 800px;
+    background-image: url(images/background.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position-y: 100%;
+    }
+p{
+    margin: 0px 50px 0px 100px;
+    font-size: 22px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;;
+}
+div{
+    margin-bottom: auto;
+}
+h1{
+    margin-left:192px;
+    margin-right: 200px;
+    margin-top: 120px;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h4{
+    margin-top: 60px;
+    width: 600px;
+}
+span{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+
+    
